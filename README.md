@@ -56,7 +56,11 @@ Execute SQL queries in your database management system (e.g., MySQL, PostgreSQL)
 (If visualization files included) Open .twbx or equivalent files in Tableau/Power BI for interactive exploration.
 
 link - https://www.novypro.com/profile_projects/amit-1?Popup=memberProject&Data=1749107101516x806068412383168800
+
+
 link - [<iframe title="blinkit_dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjczZjM0MDItMTdhZC00Y2EyLWExYzgtZTMxMjc4YmEzYWFhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe> ](https://app.powerbi.com/reportEmbed?reportId=eb96171f-6a87-4329-8e34-4435fa96e425&autoAuth=true&ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0)
+
+
 
 it is part of my data analytics portfolio. View it on my NovyPro portfolio or connect with me on LinkedIn for inquiries or collaboration.
 Licensed under MIT License. Feel free to explore and provide feedback!
